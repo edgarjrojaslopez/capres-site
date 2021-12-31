@@ -44,3 +44,4 @@ npm test
 
 Made with [createapp.dev](https://createapp.dev/)
 # react-webpack-tailwind-template
+# capres-webpack
