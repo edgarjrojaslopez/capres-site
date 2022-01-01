@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # react-webpack-tailwind-template
 
 Empty project.
@@ -45,3 +46,6 @@ npm test
 Made with [createapp.dev](https://createapp.dev/)
 # react-webpack-tailwind-template
 # capres-webpack
+=======
+# capres-site
+>>>>>>> a3d630b93974d9e359bfa5181937e2e18bd3b747
